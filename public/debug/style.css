@@ -1,0 +1,12 @@
+.uspss-debug-inner {
+    display: none;
+    font-size: 75%;
+}
+
+.uspss-debug-details, .uspss-debug-copy {
+    cursor: pointer !important;
+    text-decoration: none !important;
+    border: none !important;
+    border-bottom: 1px dashed !important;
+    margin-left: 0.5em !important;
+}
